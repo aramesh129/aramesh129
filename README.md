@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi there👋
 
+👋 My name is Ashvath, and I am pursuing a Bachelor’s degree in Computer Science at Purdue University, where I'm passionate about all things CS & DS!
+
+  🚀 I’m currently working on a student-focused finance platform, inspired by the winning project in a hackathon I participated in. I aim to make money management simpler, more intuitive, and even fun, using real-time data and insights.
+
+  ☁️ I’m currently learning cloud computing and working towards earning the AWS Certified Cloud Practitioner certification to develop my skills in cloud architecture and deployment.
+
+  🤝 I’m looking to collaborate on projects involving Java, Python, data analysis, or AI driven applications.
 <!--
 **aramesh129/aramesh129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
