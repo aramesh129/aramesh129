@@ -7,6 +7,8 @@
   ☁️ I’m currently learning cloud computing and working towards earning the AWS Certified Cloud Practitioner certification to develop my skills in cloud architecture and deployment.
 
   🤝 I’m looking to collaborate on projects involving Java, Python, data analysis, or AI driven applications.
+
+  My itch profile: https://fudge123.itch.io/
 <!--
 **aramesh129/aramesh129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
