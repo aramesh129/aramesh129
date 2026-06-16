@@ -1,6 +1,6 @@
 # hey, I'm Ashvath
 
-**CS Honors + Data Science @ Purdue** ·  prev SWE Intern @ General Dynamics Information Technology · AWS Certified Cloud Practioner
+**CS Honors + DS @ Purdue** ·  prev SWE Intern @ General Dynamics Information Technology · AWS Certified Cloud Practioner
 
 I build full stack applications, cloud systems, and pretty much whatever I find interesting. Currently working towards my AWS Solutions Architect certification.
 
