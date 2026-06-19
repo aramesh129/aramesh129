@@ -14,3 +14,9 @@ I build full stack applications, cloud systems, and pretty much whatever I find 
 LinkedIn: https://www.linkedin.com/in/ashvathramesh  
 Email: [rames129@purdue.edu](mailto:rames129@purdue.edu)  
 Portfolio: https://dp94ita1pyga6.cloudfront.net
+
+### Quote of the Day
+<!-- QUOTE_START -->
+<!-- QUOTE_END -->
+
+*(This profile updates itself daily using GitHub Actions)*
