@@ -15,7 +15,7 @@ LinkedIn: https://www.linkedin.com/in/ashvathramesh
 Email: [rames129@purdue.edu](mailto:rames129@purdue.edu)  
 Portfolio: https://dp94ita1pyga6.cloudfront.net
 
-### Quote of the Day
+### quote of the day
 <!-- QUOTE_START -->
 <!-- QUOTE_END -->
 
