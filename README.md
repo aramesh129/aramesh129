@@ -18,9 +18,9 @@ Portfolio: https://dp94ita1pyga6.cloudfront.net
 quote of the day
 <!-- QUOTE_START -->
 
-> "Talk sense to a fool and he calls you foolish."
->
-> — ***Euripides***
+"Success is a consequence and must not be a goal."
+
+— **Gustave Flaubert**
 
 <!-- QUOTE_END -->
 
