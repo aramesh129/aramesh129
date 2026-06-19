@@ -15,7 +15,7 @@ LinkedIn: https://www.linkedin.com/in/ashvathramesh
 Email: [rames129@purdue.edu](mailto:rames129@purdue.edu)  
 Portfolio: https://dp94ita1pyga6.cloudfront.net
 
-quote of the day
+### quote of the day
 <!-- QUOTE_START -->
 
 "Success is a consequence and must not be a goal."
