@@ -17,6 +17,11 @@ Portfolio: https://dp94ita1pyga6.cloudfront.net
 
 quote of the day
 <!-- QUOTE_START -->
+
+> "Talk sense to a fool and he calls you foolish."
+>
+> — ***Euripides***
+
 <!-- QUOTE_END -->
 
 (This profile updates itself daily using GitHub Actions)
