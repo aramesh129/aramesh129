@@ -18,9 +18,9 @@ Portfolio: https://dp94ita1pyga6.cloudfront.net
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Success is a consequence and must not be a goal."
+"Make your stand today. On this spot. On this day."
 
-— **Gustave Flaubert**
+— **Ming-Dao Deng**
 
 <!-- QUOTE_END -->
 
