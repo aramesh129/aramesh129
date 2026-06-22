@@ -18,9 +18,9 @@ Portfolio: https://dp94ita1pyga6.cloudfront.net
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Although the world is full of suffering, it is also full of the overcoming of it."
+"Difficult roads often lead to beautiful destinations."
 
-— **Helen Keller**
+— **Unknown**
 
 <!-- QUOTE_END -->
 
