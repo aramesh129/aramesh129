@@ -18,9 +18,9 @@ Portfolio: https://dp94ita1pyga6.cloudfront.net
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Difficult roads often lead to beautiful destinations."
+"True life is lived when tiny changes occur."
 
-— **Unknown**
+— **Leo Tolstoy**
 
 <!-- QUOTE_END -->
 
