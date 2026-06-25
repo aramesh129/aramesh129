@@ -18,9 +18,9 @@ Portfolio: https://dp94ita1pyga6.cloudfront.net
 ### quote of the day
 <!-- QUOTE_START -->
 
-"The chief danger in life is that you may take too many precautions."
+"Your greatest asset is your earning ability. Your greatest resource is your time."
 
-— **Alfred Adler**
+— **Brian Tracy**
 
 <!-- QUOTE_END -->
 
