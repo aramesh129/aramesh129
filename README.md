@@ -18,9 +18,9 @@ Portfolio: https://dp94ita1pyga6.cloudfront.net
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Your greatest asset is your earning ability. Your greatest resource is your time."
+"Keep your friends close, and your enemies closer."
 
-— **Brian Tracy**
+— **Sun Tzu**
 
 <!-- QUOTE_END -->
 
