@@ -18,9 +18,9 @@ Portfolio: https://dp94ita1pyga6.cloudfront.net
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Keep your friends close, and your enemies closer."
+"We can either add to our character each day, or we can fritter away our energies in distractions."
 
-— **Sun Tzu**
+— **Ming-Dao Deng**
 
 <!-- QUOTE_END -->
 
