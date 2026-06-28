@@ -18,9 +18,9 @@ Portfolio: https://dp94ita1pyga6.cloudfront.net
 ### quote of the day
 <!-- QUOTE_START -->
 
-"We can either add to our character each day, or we can fritter away our energies in distractions."
+"Every day may not be good, but there's something good in every day."
 
-— **Ming-Dao Deng**
+— **Unknown**
 
 <!-- QUOTE_END -->
 
