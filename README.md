@@ -18,9 +18,9 @@ Portfolio: https://dp94ita1pyga6.cloudfront.net
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Every day may not be good, but there's something good in every day."
+"Fools talk, cowards are silent, wise men listen."
 
-— **Unknown**
+— **Carlos Ruiz Zafon**
 
 <!-- QUOTE_END -->
 
