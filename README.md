@@ -18,9 +18,9 @@ Portfolio: https://dp94ita1pyga6.cloudfront.net
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Fools talk, cowards are silent, wise men listen."
+"Be yourself; everyone else is already taken."
 
-— **Carlos Ruiz Zafon**
+— **Oscar Wilde**
 
 <!-- QUOTE_END -->
 
