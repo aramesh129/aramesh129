@@ -18,9 +18,9 @@ Portfolio: https://dp94ita1pyga6.cloudfront.net
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Be yourself; everyone else is already taken."
+"It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on."
 
-— **Oscar Wilde**
+— **Steve Maraboli**
 
 <!-- QUOTE_END -->
 
