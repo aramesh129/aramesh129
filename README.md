@@ -2,7 +2,7 @@
 
 **CS Honors + DS @ Purdue** ·  SWE Intern @ General Dynamics Information Technology · AWS Certified Cloud Practioner
 
-I build full stack applications, cloud systems, and pretty much whatever I find interesting. Currently working towards my AWS Solutions Architect certification.
+I build full stack applications, cloud systems, and pretty much whatever I find interesting. Currently working towards my AWS Solutions Architect - Associate certification.
 
 ### areas of interest
 - **Full Stack Development**
