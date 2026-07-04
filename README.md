@@ -18,9 +18,9 @@ Portfolio: https://dp94ita1pyga6.cloudfront.net
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Don't let anyone define you. You define yourself."
+"The only limits in our life are those we impose on ourselves."
 
-— **Billie Jean King**
+— **Bob Proctor**
 
 <!-- QUOTE_END -->
 
