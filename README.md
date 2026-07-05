@@ -18,9 +18,9 @@ Portfolio: https://dp94ita1pyga6.cloudfront.net
 ### quote of the day
 <!-- QUOTE_START -->
 
-"The only limits in our life are those we impose on ourselves."
+"People who say it cannot be done should not interrupt those who are doing it."
 
-— **Bob Proctor**
+— **George Bernard Shaw**
 
 <!-- QUOTE_END -->
 
