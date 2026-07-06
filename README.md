@@ -18,9 +18,9 @@ Portfolio: https://dp94ita1pyga6.cloudfront.net
 ### quote of the day
 <!-- QUOTE_START -->
 
-"People who say it cannot be done should not interrupt those who are doing it."
+"Nothing will work unless you do."
 
-— **George Bernard Shaw**
+— **Maya Angelou**
 
 <!-- QUOTE_END -->
 
