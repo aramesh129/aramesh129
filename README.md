@@ -2,7 +2,7 @@
   Replace every occurrence of aramesh129 below with your
   actual GitHub username before you commit this file.
 ============================================================ -->
-<div align="center"
+<div align="center">
 
 <img src="assets/neofetch.svg" alt="neofetch style intro" width="100%"/>
 
