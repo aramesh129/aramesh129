@@ -9,8 +9,7 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=SWE+Intern+%40+General+Dynamics+Information+Technology;Currently+chasing+the+AWS+SAA+cert" alt="Typing SVG" />
 </a>
-<br/>
-<img src="https://komarev.com/ghpvc/?username=aramesh129&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile views"/>
+
 </div>
 
 ---
