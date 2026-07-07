@@ -27,10 +27,6 @@
 
 ---
 
-### contribution snake
-
-<!-- The snake below is generated automatically by the GitHub Action in
-     .github/workflows/snake.yml — it "eats" your commit graph every day. -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aramesh129/aramesh129/output/github-contribution-grid-snake-dark.svg" />
