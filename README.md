@@ -2,31 +2,25 @@
   Replace every occurrence of aramesh129 below with your
   actual GitHub username before you commit this file.
 ============================================================ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=180&section=header&text=Hey,%20I'm%20Ashvath%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Honors%20%2B%20DS%20%40%20Purdue" width="100%"/>
+<img src="assets/neofetch.svg" alt="neofetch style intro" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=SWE+Intern+%40+General+Dynamics+Information+Technology;Currently+chasing+the+AWS+SAA+cert" alt="Typing SVG" />
 </a>
-
 <br/>
-
 <img src="https://komarev.com/ghpvc/?username=aramesh129&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile views"/>
-
 </div>
 
 ---
 
 ### areas of interest
-
 - **Full Stack Development** 
 - **Cloud & DevOps**
 - **Data Science & ML** 
 
 ---
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aramesh129/aramesh129/output/github-contribution-grid-snake-dark.svg" />
@@ -37,17 +31,13 @@
 ---
 
 ### the stats
-
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aramesh129&theme=tokyonight&hide_border=true" />
 </div>
 
-
 ---
 
 ### links
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashvathramesh)
@@ -59,7 +49,6 @@
 ---
 
 ### quote of the day
-
 <!-- QUOTE_START -->
 > "No great mind has ever existed without a touch of madness."
 > — **Aristotle**
