@@ -18,9 +18,9 @@ Portfolio: https://dp94ita1pyga6.cloudfront.net
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Nothing will work unless you do."
+"No great mind has ever existed without a touch of madness."
 
-— **Maya Angelou**
+— **Aristotle**
 
 <!-- QUOTE_END -->
 
