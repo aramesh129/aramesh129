@@ -52,8 +52,11 @@
 
 ### quote of the day
 <!-- QUOTE_START -->
-> "No great mind has ever existed without a touch of madness."
-> — **Aristotle**
+
+"You are not what you think you are, You are not what others think you are, You are what you think others think you are."
+
+— **Unknown**
+
 <!-- QUOTE_END -->
 
 <div align="center"><sub>This profile updates itself daily using GitHub Actions</sub></div>
