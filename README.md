@@ -53,9 +53,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"You are not what you think you are, You are not what others think you are, You are what you think others think you are."
+"He is not a lover who does not love forever."
 
-— **Unknown**
+— **Euripides**
 
 <!-- QUOTE_END -->
 
