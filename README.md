@@ -53,9 +53,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"He is not a lover who does not love forever."
+"I can never decide whether my dreams are the result of my thoughts or my thoughts the result of my dreams."
 
-— **Euripides**
+— **D. H. Lawrence**
 
 <!-- QUOTE_END -->
 
