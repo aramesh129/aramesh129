@@ -7,7 +7,7 @@
 <img src="assets/neofetch.svg" alt="neofetch style intro" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=SWE+Intern+%40+General+Dynamics+Information+Technology;Currently+chasing+the+AWS+SAA+cert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=SWE+Intern+%40+General+Dynamics+Information+Technology;Currently+working+towards+the+AWS+SAA+cert" alt="Typing SVG" />
 </a>
 
 <br/>
