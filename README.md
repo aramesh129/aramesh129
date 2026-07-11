@@ -53,9 +53,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"I can never decide whether my dreams are the result of my thoughts or my thoughts the result of my dreams."
+"At the center of your being you have the answer; you know who you are and you know what you want."
 
-— **D. H. Lawrence**
+— **Lao Tzu**
 
 <!-- QUOTE_END -->
 
