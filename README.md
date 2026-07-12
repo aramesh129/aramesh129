@@ -53,9 +53,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"At the center of your being you have the answer; you know who you are and you know what you want."
+"Problems remain as problems because people are busy defending them rather than finding solutions."
 
-— **Lao Tzu**
+— **Celestine Chua**
 
 <!-- QUOTE_END -->
 
