@@ -53,9 +53,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Problems remain as problems because people are busy defending them rather than finding solutions."
+"No man becomes rich unless he enriches others."
 
-— **Celestine Chua**
+— **Andrew Carnegie**
 
 <!-- QUOTE_END -->
 
