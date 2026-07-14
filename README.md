@@ -53,9 +53,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"No man becomes rich unless he enriches others."
+"The great use of life is to spend it for something that will outlast it."
 
-— **Andrew Carnegie**
+— **William James**
 
 <!-- QUOTE_END -->
 
