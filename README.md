@@ -53,9 +53,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"The great use of life is to spend it for something that will outlast it."
+"No man is happy unless he believes he is."
 
-— **William James**
+— **Publilius Syrus**
 
 <!-- QUOTE_END -->
 
