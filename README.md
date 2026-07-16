@@ -53,9 +53,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"No man is happy unless he believes he is."
+"Always forgive your enemies - nothing annoys them so much."
 
-— **Publilius Syrus**
+— **Oscar Wilde**
 
 <!-- QUOTE_END -->
 
