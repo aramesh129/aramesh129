@@ -53,7 +53,7 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Always forgive your enemies - nothing annoys them so much."
+"Be yourself; everyone else is already taken."
 
 — **Oscar Wilde**
 
