@@ -53,9 +53,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Be yourself; everyone else is already taken."
+"Quality is not an act, it is a habit."
 
-— **Oscar Wilde**
+— **Colin R. Davis**
 
 <!-- QUOTE_END -->
 
