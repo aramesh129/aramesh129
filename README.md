@@ -53,9 +53,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Quality is not an act, it is a habit."
+"The pursuit of mastery bears gifts."
 
-— **Colin R. Davis**
+— **Gary Keller**
 
 <!-- QUOTE_END -->
 
