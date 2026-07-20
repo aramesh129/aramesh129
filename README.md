@@ -53,9 +53,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"The pursuit of mastery bears gifts."
+"Be happy in the moment, that's enough. Each moment is all we need, not more."
 
-— **Gary Keller**
+— **Mother Teresa**
 
 <!-- QUOTE_END -->
 
