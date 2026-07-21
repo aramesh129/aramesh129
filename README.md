@@ -53,9 +53,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Be happy in the moment, that's enough. Each moment is all we need, not more."
+"Be yourself; everyone else is already taken."
 
-— **Mother Teresa**
+— **Oscar Wilde**
 
 <!-- QUOTE_END -->
 
