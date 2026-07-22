@@ -53,9 +53,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Be yourself; everyone else is already taken."
+"Whatever is begun in anger, ends in shame."
 
-— **Oscar Wilde**
+— **Benjamin Franklin**
 
 <!-- QUOTE_END -->
 
