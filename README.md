@@ -53,9 +53,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Whatever is begun in anger, ends in shame."
+"Never test the depth of river with both the feet."
 
-— **Benjamin Franklin**
+— **Warren Buffett**
 
 <!-- QUOTE_END -->
 
