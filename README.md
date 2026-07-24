@@ -53,9 +53,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Never test the depth of river with both the feet."
+"Character is doing what you don't want to do but know you should do."
 
-— **Warren Buffett**
+— **Joyce Meyer**
 
 <!-- QUOTE_END -->
 
