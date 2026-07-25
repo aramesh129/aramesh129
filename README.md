@@ -53,9 +53,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Character is doing what you don't want to do but know you should do."
+"Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality."
 
-— **Joyce Meyer**
+— **James Cameron**
 
 <!-- QUOTE_END -->
 
