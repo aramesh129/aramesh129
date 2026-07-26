@@ -53,9 +53,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality."
+"Failure is the key to success; each mistake teaches us something."
 
-— **James Cameron**
+— **Morihei Ueshiba**
 
 <!-- QUOTE_END -->
 
