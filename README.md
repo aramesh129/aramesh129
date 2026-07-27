@@ -53,9 +53,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Failure is the key to success; each mistake teaches us something."
+"If you don't like something change it; if you can't change it, change the way you think about it."
 
-— **Morihei Ueshiba**
+— **Mary Engelbreit**
 
 <!-- QUOTE_END -->
 
