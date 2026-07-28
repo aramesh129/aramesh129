@@ -53,9 +53,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"If you don't like something change it; if you can't change it, change the way you think about it."
+"You don't get in life what you want; you get in life what you are."
 
-— **Mary Engelbreit**
+— **Les Brown**
 
 <!-- QUOTE_END -->
 
