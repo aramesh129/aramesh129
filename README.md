@@ -53,9 +53,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"You don't get in life what you want; you get in life what you are."
+"You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being."
 
-— **Les Brown**
+— **Anita Krizzan**
 
 <!-- QUOTE_END -->
 
