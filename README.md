@@ -53,9 +53,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"There is nothing in the world so irresistibly contagious as laughter and good humor."
+"It is amazing what you can accomplish if you do not care who gets the credit."
 
-— **Charles Dickens**
+— **Harry S. Truman**
 
 <!-- QUOTE_END -->
 
