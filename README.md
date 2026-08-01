@@ -53,9 +53,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"It is amazing what you can accomplish if you do not care who gets the credit."
+"The whole is greater than the sum of its parts."
 
-— **Harry S. Truman**
+— **Aristotle**
 
 <!-- QUOTE_END -->
 
