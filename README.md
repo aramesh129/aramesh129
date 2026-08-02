@@ -53,9 +53,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"The whole is greater than the sum of its parts."
+"Forgive yourself for your faults and your mistakes and move on."
 
-— **Aristotle**
+— **Les Brown**
 
 <!-- QUOTE_END -->
 
