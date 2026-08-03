@@ -53,9 +53,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Forgive yourself for your faults and your mistakes and move on."
+"No one returns from a long journey the same person they were before."
 
-— **Les Brown**
+— **Zen Proverb**
 
 <!-- QUOTE_END -->
 
