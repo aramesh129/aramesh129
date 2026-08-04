@@ -53,9 +53,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"No one returns from a long journey the same person they were before."
+"Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry."
 
-— **Zen Proverb**
+— **Celestine Chua**
 
 <!-- QUOTE_END -->
 
