@@ -53,9 +53,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry."
+"The scariest moment is always just before you start. After that, things can only get better."
 
-— **Celestine Chua**
+— **Stephen King**
 
 <!-- QUOTE_END -->
 
