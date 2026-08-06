@@ -53,9 +53,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"The scariest moment is always just before you start. After that, things can only get better."
+"A Rolling Stone Gathers No Moss."
 
-— **Stephen King**
+— **Publilius Syrus**
 
 <!-- QUOTE_END -->
 
