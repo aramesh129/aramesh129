@@ -53,9 +53,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"A Rolling Stone Gathers No Moss."
+"We learn to walk by falling down. If we never fell down, we would never walk."
 
-— **Publilius Syrus**
+— **Robert Kiyosaki**
 
 <!-- QUOTE_END -->
 
