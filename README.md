@@ -53,9 +53,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"We learn to walk by falling down. If we never fell down, we would never walk."
+"Looking after my health today gives me a better hope for tomorrow."
 
-— **Robert Kiyosaki**
+— **Anne Wilson Schaef**
 
 <!-- QUOTE_END -->
 
