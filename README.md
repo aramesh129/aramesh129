@@ -53,9 +53,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Looking after my health today gives me a better hope for tomorrow."
+"To be persuasive we must be believable; to be believable we must be credible; to be credible we must be truthful."
 
-— **Anne Wilson Schaef**
+— **David Brinkley**
 
 <!-- QUOTE_END -->
 
