@@ -53,9 +53,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"To be persuasive we must be believable; to be believable we must be credible; to be credible we must be truthful."
+"It's the unknown we fear when we look upon death and darkness, nothing more."
 
-— **David Brinkley**
+— **Albus Dumbledore**
 
 <!-- QUOTE_END -->
 
