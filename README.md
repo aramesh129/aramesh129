@@ -53,9 +53,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"It's the unknown we fear when we look upon death and darkness, nothing more."
+"Ability is a poor man's wealth."
 
-— **Albus Dumbledore**
+— **John Wooden**
 
 <!-- QUOTE_END -->
 
