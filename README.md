@@ -53,9 +53,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Ability is a poor man's wealth."
+"For fast-acting relief try slowing down."
 
-— **John Wooden**
+— **Lily Tomlin**
 
 <!-- QUOTE_END -->
 
