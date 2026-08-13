@@ -53,9 +53,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"For fast-acting relief try slowing down."
+"Fear is your worst enemy. Risk is your best friend."
 
-— **Lily Tomlin**
+— **Gurbaksh Chahal**
 
 <!-- QUOTE_END -->
 
