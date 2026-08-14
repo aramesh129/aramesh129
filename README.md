@@ -53,9 +53,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Fear is your worst enemy. Risk is your best friend."
+"Avoiding failure is to avoid progress."
 
-— **Gurbaksh Chahal**
+— **Unknown**
 
 <!-- QUOTE_END -->
 
