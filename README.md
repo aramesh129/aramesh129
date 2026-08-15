@@ -53,9 +53,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Avoiding failure is to avoid progress."
+"Still your waters."
 
-— **Unknown**
+— **Josh Waitzkin**
 
 <!-- QUOTE_END -->
 
