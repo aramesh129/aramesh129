@@ -53,9 +53,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy."
+"You will face many defeats in life, but never let yourself be defeated."
 
-— **Thich Nhat Hanh**
+— **Maya Angelou**
 
 <!-- QUOTE_END -->
 
