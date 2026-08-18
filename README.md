@@ -53,9 +53,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"You will face many defeats in life, but never let yourself be defeated."
+"We run to win, not just to be in the race."
 
-— **Maya Angelou**
+— **Vince Lombardi**
 
 <!-- QUOTE_END -->
 
