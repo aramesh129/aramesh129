@@ -53,9 +53,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"We run to win, not just to be in the race."
+"Memory is the scribe of the soul."
 
-— **Vince Lombardi**
+— **Aristotle**
 
 <!-- QUOTE_END -->
 
