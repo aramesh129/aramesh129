@@ -53,9 +53,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Memory is the scribe of the soul."
+"Be royal in your own fashion: act like a king to be treated like one."
 
-— **Aristotle**
+— **Robert Greene**
 
 <!-- QUOTE_END -->
 
