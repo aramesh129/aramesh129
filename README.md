@@ -53,9 +53,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Be royal in your own fashion: act like a king to be treated like one."
+"Think progress, not perfection."
 
-— **Robert Greene**
+— **Ryan Holiday**
 
 <!-- QUOTE_END -->
 
