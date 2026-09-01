@@ -53,9 +53,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Think progress, not perfection."
+"Fools read fast. Geniuses reread."
 
-— **Ryan Holiday**
+— **Maxime Lagace**
 
 <!-- QUOTE_END -->
 
