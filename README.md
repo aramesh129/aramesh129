@@ -53,9 +53,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Fools read fast. Geniuses reread."
+"Sometimes, the only way to evolve is to open ourselves fully."
 
-— **Maxime Lagace**
+— **Kamal Ravikant**
 
 <!-- QUOTE_END -->
 
