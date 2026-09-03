@@ -53,9 +53,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Sometimes, the only way to evolve is to open ourselves fully."
+"Why live an ordinary life, when you can live an extraordinary one."
 
-— **Kamal Ravikant**
+— **Tony Robbins**
 
 <!-- QUOTE_END -->
 
