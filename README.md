@@ -53,9 +53,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Why live an ordinary life, when you can live an extraordinary one."
+"There is a big difference between being centered and being self-centered."
 
-— **Tony Robbins**
+— **Lolly Daskal**
 
 <!-- QUOTE_END -->
 
