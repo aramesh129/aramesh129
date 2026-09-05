@@ -53,9 +53,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"There is a big difference between being centered and being self-centered."
+"Older men declare war. But it is youth that must fight and die."
 
-— **Lolly Daskal**
+— **Herbert Hoover**
 
 <!-- QUOTE_END -->
 
