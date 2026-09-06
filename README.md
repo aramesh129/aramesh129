@@ -53,9 +53,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Older men declare war. But it is youth that must fight and die."
+"Leaders think and talk about solutions. Followers think and talk about the problems."
 
-— **Herbert Hoover**
+— **Brian Tracy**
 
 <!-- QUOTE_END -->
 
