@@ -53,9 +53,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Leaders think and talk about solutions. Followers think and talk about the problems."
+"The strength of a wall is neither greater nor less than the courage of the men who defend it."
 
-— **Brian Tracy**
+— **Genghis Khan**
 
 <!-- QUOTE_END -->
 
