@@ -53,9 +53,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"The strength of a wall is neither greater nor less than the courage of the men who defend it."
+"The truth is heavy, therefore few care to carry it."
 
-— **Genghis Khan**
+— **Winston Churchill**
 
 <!-- QUOTE_END -->
 
