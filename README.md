@@ -53,9 +53,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"The truth is heavy, therefore few care to carry it."
+"It is children only who enjoy the present; their elders either live on the memory of the past or the hope of the future."
 
-— **Winston Churchill**
+— **Nicolas Chamfort**
 
 <!-- QUOTE_END -->
 
