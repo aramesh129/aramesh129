@@ -53,9 +53,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"It is children only who enjoy the present; their elders either live on the memory of the past or the hope of the future."
+"Chase your passion, not your pension."
 
-— **Nicolas Chamfort**
+— **Denis Waitley**
 
 <!-- QUOTE_END -->
 
