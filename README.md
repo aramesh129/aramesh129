@@ -53,9 +53,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Chase your passion, not your pension."
+"Magic is believing in yourself, if you can do that, you can make anything happen."
 
-— **Denis Waitley**
+— **Johann Wolfgang von Goethe**
 
 <!-- QUOTE_END -->
 
