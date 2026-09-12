@@ -53,9 +53,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Magic is believing in yourself, if you can do that, you can make anything happen."
+"Alone we can do so little; together we can do so much."
 
-— **Johann Wolfgang von Goethe**
+— **Helen Keller**
 
 <!-- QUOTE_END -->
 
