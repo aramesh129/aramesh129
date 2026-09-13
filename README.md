@@ -53,9 +53,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Alone we can do so little; together we can do so much."
+"Fiction is the truth inside the lie."
 
-— **Helen Keller**
+— **Stephen King**
 
 <!-- QUOTE_END -->
 
