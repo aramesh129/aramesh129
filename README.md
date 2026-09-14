@@ -53,9 +53,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Fiction is the truth inside the lie."
+"The present moment is filled with joy and happiness. If you are attentive, you will see it."
 
-— **Stephen King**
+— **Thich Nhat Hanh**
 
 <!-- QUOTE_END -->
 
