@@ -53,9 +53,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"The present moment is filled with joy and happiness. If you are attentive, you will see it."
+"The future belongs to those who learn more skills and combine them in creative ways."
 
-— **Thich Nhat Hanh**
+— **Robert Greene**
 
 <!-- QUOTE_END -->
 
