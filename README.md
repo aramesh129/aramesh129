@@ -53,9 +53,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"The future belongs to those who learn more skills and combine them in creative ways."
+"When we have our body and mind in order, everything else will exist in the right place, in the right way."
 
-— **Robert Greene**
+— **Shunryu Suzuki**
 
 <!-- QUOTE_END -->
 
