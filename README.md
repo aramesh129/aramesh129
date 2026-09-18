@@ -53,9 +53,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"In peace, sons bury their fathers. In war, fathers bury their sons."
+"Some of the greater things in life are unseen; that's why you close your eyes when you kiss, cry, or dream."
 
-— **Herodotus**
+— **Unknown**
 
 <!-- QUOTE_END -->
 
