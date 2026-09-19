@@ -49,9 +49,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Some of the greater things in life are unseen; that's why you close your eyes when you kiss, cry, or dream."
+"Even when a friend does something you do not like, he continues to be your friend."
 
-— **Unknown**
+— **Genghis Khan**
 
 <!-- QUOTE_END -->
 
