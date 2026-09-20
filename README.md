@@ -49,9 +49,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Even when a friend does something you do not like, he continues to be your friend."
+"It is useless to meet revenge with revenge; it will heal nothing."
 
-— **Genghis Khan**
+— **J.R.R. Tolkien**
 
 <!-- QUOTE_END -->
 
