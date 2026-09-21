@@ -49,9 +49,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"It is useless to meet revenge with revenge; it will heal nothing."
+"Until we can manage time, we can manage nothing else."
 
-— **J.R.R. Tolkien**
+— **Peter Drucker**
 
 <!-- QUOTE_END -->
 
