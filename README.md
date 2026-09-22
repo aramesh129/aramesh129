@@ -49,9 +49,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Until we can manage time, we can manage nothing else."
+"At first dreams seem impossible, then improbable, then inevitable."
 
-— **Peter Drucker**
+— **Christopher Reeve**
 
 <!-- QUOTE_END -->
 
