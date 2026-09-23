@@ -49,9 +49,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"At first dreams seem impossible, then improbable, then inevitable."
+"Forget mistakes. Forget failure. Forget everything except what you are going to do now and do it. Today is your lucky day!"
 
-— **Christopher Reeve**
+— **Og Mandino**
 
 <!-- QUOTE_END -->
 
