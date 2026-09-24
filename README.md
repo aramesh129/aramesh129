@@ -49,9 +49,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Forget mistakes. Forget failure. Forget everything except what you are going to do now and do it. Today is your lucky day!"
+"Closing your eyes and listening to silence is self-care."
 
-— **Og Mandino**
+— **Maxime Lagace**
 
 <!-- QUOTE_END -->
 
