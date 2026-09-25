@@ -49,9 +49,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Closing your eyes and listening to silence is self-care."
+"It is literally true that you can succeed best and quickest by helping others succeed."
 
-— **Maxime Lagace**
+— **Napoleon Hill**
 
 <!-- QUOTE_END -->
 
