@@ -49,9 +49,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"It is literally true that you can succeed best and quickest by helping others succeed."
+"We think too much and feel too little."
 
-— **Napoleon Hill**
+— **Charlie Chaplin**
 
 <!-- QUOTE_END -->
 
