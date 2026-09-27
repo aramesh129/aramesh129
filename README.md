@@ -49,9 +49,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"We think too much and feel too little."
+"No snowflake ever falls in the wrong place."
 
-— **Charlie Chaplin**
+— **Zen Proverb**
 
 <!-- QUOTE_END -->
 
