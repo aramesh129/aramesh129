@@ -49,9 +49,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"No snowflake ever falls in the wrong place."
+"Each time we don't say what we wanna say, we're dying."
 
-— **Zen Proverb**
+— **Yoko Ono**
 
 <!-- QUOTE_END -->
 
