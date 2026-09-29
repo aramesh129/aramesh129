@@ -49,9 +49,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Each time we don't say what we wanna say, we're dying."
+"You can live a whole life time never being awake."
 
-— **Yoko Ono**
+— **Dan Millman**
 
 <!-- QUOTE_END -->
 
