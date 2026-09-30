@@ -49,9 +49,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"You can live a whole life time never being awake."
+"Magic is believing in yourself, if you can do that, you can make anything happen."
 
-— **Dan Millman**
+— **Johann Wolfgang von Goethe**
 
 <!-- QUOTE_END -->
 
