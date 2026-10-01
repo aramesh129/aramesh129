@@ -49,9 +49,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Magic is believing in yourself, if you can do that, you can make anything happen."
+"Be yourself; everyone else is already taken."
 
-— **Johann Wolfgang von Goethe**
+— **Oscar Wilde**
 
 <!-- QUOTE_END -->
 
