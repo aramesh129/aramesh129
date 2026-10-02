@@ -49,9 +49,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Be yourself; everyone else is already taken."
+"The less you talk about your shame, the more of it you have."
 
-— **Oscar Wilde**
+— **Mark Manson**
 
 <!-- QUOTE_END -->
 
