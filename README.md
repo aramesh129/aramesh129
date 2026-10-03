@@ -49,9 +49,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"The less you talk about your shame, the more of it you have."
+"Wrong does not cease to be wrong because the majority share in it."
 
-— **Mark Manson**
+— **Leo Tolstoy**
 
 <!-- QUOTE_END -->
 
