@@ -49,9 +49,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Wrong does not cease to be wrong because the majority share in it."
+"A dream you dream alone is only a dream. A dream you dream together is reality."
 
-— **Leo Tolstoy**
+— **Yoko Ono**
 
 <!-- QUOTE_END -->
 
