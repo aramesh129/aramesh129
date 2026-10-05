@@ -49,9 +49,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"A dream you dream alone is only a dream. A dream you dream together is reality."
+"Smell the cheese often so you know when it is getting old."
 
-— **Yoko Ono**
+— **Spencer Johnson**
 
 <!-- QUOTE_END -->
 
