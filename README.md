@@ -49,9 +49,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Smell the cheese often so you know when it is getting old."
+"Don't blame others. it won't make you a better person."
 
-— **Spencer Johnson**
+— **Lolly Daskal**
 
 <!-- QUOTE_END -->
 
