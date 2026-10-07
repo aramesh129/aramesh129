@@ -49,9 +49,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Don't blame others. it won't make you a better person."
+"Hope itself is like a star- not to be seen in the sunshine of prosperity, and only to be discovered in the night of adversity."
 
-— **Lolly Daskal**
+— **Charles Spurgeon**
 
 <!-- QUOTE_END -->
 
