@@ -49,9 +49,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Hope itself is like a star- not to be seen in the sunshine of prosperity, and only to be discovered in the night of adversity."
+"Take good advice, make sure it is good advice, then do it your way."
 
-— **Charles Spurgeon**
+— **Vidal Sassoon**
 
 <!-- QUOTE_END -->
 
