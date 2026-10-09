@@ -49,9 +49,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Take good advice, make sure it is good advice, then do it your way."
+"What we desire makes us vulnerable."
 
-— **Vidal Sassoon**
+— **Ryan Holiday**
 
 <!-- QUOTE_END -->
 
