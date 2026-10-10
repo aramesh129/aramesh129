@@ -49,9 +49,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"What we desire makes us vulnerable."
+"What have you done today to make someone else happy?"
 
-— **Ryan Holiday**
+— **Deepam Chaterjee**
 
 <!-- QUOTE_END -->
 
