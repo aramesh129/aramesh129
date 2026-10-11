@@ -49,9 +49,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"What have you done today to make someone else happy?"
+"Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful."
 
-— **Deepam Chaterjee**
+— **Estee Lauder**
 
 <!-- QUOTE_END -->
 
