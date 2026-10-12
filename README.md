@@ -49,9 +49,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful."
+"Our life is what our thoughts make it. A man will find that as he alters his thoughts toward things and other people, things and other people will alter towards him."
 
-— **Estee Lauder**
+— **James Allen**
 
 <!-- QUOTE_END -->
 
