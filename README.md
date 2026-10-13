@@ -49,9 +49,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Our life is what our thoughts make it. A man will find that as he alters his thoughts toward things and other people, things and other people will alter towards him."
+"What is a friend? A single soul dwelling in two bodies."
 
-— **James Allen**
+— **Aristotle**
 
 <!-- QUOTE_END -->
 
