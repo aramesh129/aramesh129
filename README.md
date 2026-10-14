@@ -49,9 +49,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"What is a friend? A single soul dwelling in two bodies."
+"When you judge another, you do not define them, you define yourself"
 
-— **Aristotle**
+— **Wayne Dyer**
 
 <!-- QUOTE_END -->
 
