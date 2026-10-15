@@ -49,9 +49,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"When you judge another, you do not define them, you define yourself"
+"If you care about someone enough, you'll always be there for them no matter what."
 
-— **Wayne Dyer**
+— **Roy T. Bennett**
 
 <!-- QUOTE_END -->
 
