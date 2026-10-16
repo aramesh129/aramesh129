@@ -49,9 +49,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"If you care about someone enough, you'll always be there for them no matter what."
+"A little progress each day adds up to big results."
 
-— **Roy T. Bennett**
+— **Unknown**
 
 <!-- QUOTE_END -->
 
