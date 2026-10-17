@@ -49,9 +49,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"A little progress each day adds up to big results."
+"There is no one giant step that does it. It's a lot of little steps."
 
-— **Unknown**
+— **Peter A. Cohen**
 
 <!-- QUOTE_END -->
 
