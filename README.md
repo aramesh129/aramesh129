@@ -49,9 +49,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"There is no one giant step that does it. It's a lot of little steps."
+"Being ignorant is not so much a shame, as being unwilling to learn."
 
-— **Peter A. Cohen**
+— **Benjamin Franklin**
 
 <!-- QUOTE_END -->
 
