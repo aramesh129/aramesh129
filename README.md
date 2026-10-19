@@ -49,9 +49,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Being ignorant is not so much a shame, as being unwilling to learn."
+"The power of human thought grows exponentially with the number of minds that share that thought."
 
-— **Benjamin Franklin**
+— **Dan Brown**
 
 <!-- QUOTE_END -->
 
