@@ -49,9 +49,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"The power of human thought grows exponentially with the number of minds that share that thought."
+"The only problem we really have is we think we're not supposed to have problems! Problems call us to higher level- - face & solve them now!"
 
-— **Dan Brown**
+— **Tony Robbins**
 
 <!-- QUOTE_END -->
 
