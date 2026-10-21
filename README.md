@@ -49,9 +49,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"The only problem we really have is we think we're not supposed to have problems! Problems call us to higher level- - face & solve them now!"
+"Action is the foundational key to all success."
 
-— **Tony Robbins**
+— **Pablo Picasso**
 
 <!-- QUOTE_END -->
 
