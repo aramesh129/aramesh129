@@ -49,9 +49,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Action is the foundational key to all success."
+"Challenge yourself to find the good and beautiful thing inside of everyone."
 
-— **Pablo Picasso**
+— **Mark Manson**
 
 <!-- QUOTE_END -->
 
