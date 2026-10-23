@@ -49,9 +49,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Challenge yourself to find the good and beautiful thing inside of everyone."
+"Older men declare war. But it is youth that must fight and die."
 
-— **Mark Manson**
+— **Herbert Hoover**
 
 <!-- QUOTE_END -->
 
