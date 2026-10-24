@@ -49,9 +49,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Older men declare war. But it is youth that must fight and die."
+"As a matter of fact is an expression that precedes many an expression that isn't."
 
-— **Herbert Hoover**
+— **Laurence J. Peter**
 
 <!-- QUOTE_END -->
 
