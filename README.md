@@ -49,9 +49,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"As a matter of fact is an expression that precedes many an expression that isn't."
+"Educating the mind without educating the heart is no education at all."
 
-— **Laurence J. Peter**
+— **Aristotle**
 
 <!-- QUOTE_END -->
 
