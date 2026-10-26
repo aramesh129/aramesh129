@@ -49,9 +49,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Educating the mind without educating the heart is no education at all."
+"The single most powerful asset we all have is our mind."
 
-— **Aristotle**
+— **Robert Kiyosaki**
 
 <!-- QUOTE_END -->
 
