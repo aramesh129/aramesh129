@@ -49,9 +49,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"The single most powerful asset we all have is our mind."
+"Giving back involves a certain amount of giving up."
 
-— **Robert Kiyosaki**
+— **Colin Powell**
 
 <!-- QUOTE_END -->
 
