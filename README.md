@@ -49,9 +49,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"Giving back involves a certain amount of giving up."
+"The harder you work, the harder it is to surrender."
 
-— **Colin Powell**
+— **Vince Lombardi**
 
 <!-- QUOTE_END -->
 
