@@ -49,9 +49,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"The harder you work, the harder it is to surrender."
+"The only difference between success and failure is the ability to take action."
 
-— **Vince Lombardi**
+— **Alexander Graham Bell**
 
 <!-- QUOTE_END -->
 
