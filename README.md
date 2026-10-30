@@ -49,9 +49,9 @@
 ### quote of the day
 <!-- QUOTE_START -->
 
-"The only difference between success and failure is the ability to take action."
+"The sweetest pleasure arises from difficulties overcome."
 
-— **Alexander Graham Bell**
+— **Publilius Syrus**
 
 <!-- QUOTE_END -->
 
